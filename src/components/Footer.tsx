@@ -7,7 +7,7 @@ export default function Footer() {
           href="https://github.com/johnliradev/todoinprivate"
           target="_blank"
           rel="noopener noreferrer"
-          className="underline hover:text-white transition"
+          className="underline "
         >
           Get code
         </a>
