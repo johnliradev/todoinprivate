@@ -24,7 +24,7 @@ export default function Page() {
   };
 
   return (
-    <div className="w-screen h-screen flex flex-col gap-20 mt-40 items-center">
+    <div className="w-screen h-screen flex flex-col gap-20 justify-center items-center">
       <div className="text-center">
         <p className="font-playfair text-6xl">
           To do in <span className="font-medium underline">Silence</span>

@@ -16,7 +16,7 @@ export default function ContainerTasks({
   removeTask,
 }: Props) {
   return (
-    <div className="flex flex-col md:w-2/3 h-full overflow-x-scroll  gap-2 px-5">
+    <div className="flex flex-col md:w-2/3 h-full   gap-2 px-5">
       {tasks.map((task, index) => (
         <Task
           key={index}
